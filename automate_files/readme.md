@@ -10,7 +10,7 @@ This project organises files into images and documents folders automatically.
 
 <code>echo [message]</code>: Prints a message or writes to a file
 
-How it works
+<b>How it works</b>
 
     # Go to Desktop
     cd ~/Desktop
