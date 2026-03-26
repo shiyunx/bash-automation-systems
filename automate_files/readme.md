@@ -1,4 +1,4 @@
-# 📂 Automate Files
+## Automate Files
 
 This project organises files into images and documents folders automatically.
 
