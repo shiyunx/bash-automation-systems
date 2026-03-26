@@ -14,8 +14,12 @@ This project generates multiple random passwords. Users can specify the password
     # Go to Desktop
     cd ~/Desktop
 
+<br>
+
     # Make the script executable
     chmod +x generate_passwords.sh
+
+<br>
 
     # Run the script
     ./generate_passwords.sh
