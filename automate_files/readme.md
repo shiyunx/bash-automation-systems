@@ -6,9 +6,9 @@ This project organises files into images and documents folders automatically.
 
 - <code>/dev/null</code>: Hide error messages if no files match
 
-<code>mv [source] [destination]</code>: Moves or renames files & folders
+- <code>mv [source] [destination]</code>: Moves or renames files & folders
 
-<code>echo [message]</code>: Prints a message or writes to a file
+- <code>echo [message]</code>: Prints a message or writes to a file
 
 <b>How it works</b>
 
