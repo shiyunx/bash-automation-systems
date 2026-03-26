@@ -27,7 +27,7 @@ Input:
 
 Output:
 
-Generated passwords:
+    Generated passwords:
 
     1: 8@Bv!wQ2k#R4
     2: 9a$TqR!2kLp#
