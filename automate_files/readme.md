@@ -13,22 +13,22 @@ This project organises files into images and documents folders automatically.
 <b>How it works</b>
 
 ```bash
-    # Go to Desktop
-    cd ~/Desktop
+# Go to Desktop
+cd ~/Desktop
 ```
 
 <br>
     
 ```bash
-    # Make the script executable
-    chmod +x organize_files.sh
+# Make the script executable
+chmod +x organize_files.sh
 ```
 
 <br>
 
 ```bash
-    # Run the script
-    ./automate_documents.sh
+# Run the script
+./automate_documents.sh
 ```
 
 Input:
