@@ -2,13 +2,13 @@
 
 This project organises files into images and documents folders automatically.
 
-- <code>mkdir -p</code>: Creates folders, no error if they already exist
+- ```mkdir -p```: Creates folders, no error if they already exist
 
-- <code>/dev/null</code>: Hide error messages if no files match
+- ```/dev/null```: Hide error messages if no files match
 
-- <code>mv [source] [destination]</code>: Moves or renames files & folders
+- ```mv [source] [destination]```: Moves or renames files & folders
 
-- <code>echo [message]</code>: Prints a message or writes to a file
+- ```echo [message]```: Prints a message or writes to a file
 
 <b>How it works</b>
 
@@ -16,15 +16,11 @@ This project organises files into images and documents folders automatically.
 # Go to Desktop
 cd ~/Desktop
 ```
-
-<br>
     
 ```bash
 # Make the script executable
 chmod +x organize_files.sh
 ```
-
-<br>
 
 ```bash
 # Run the script
