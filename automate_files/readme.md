@@ -2,13 +2,13 @@
 
 This project organises files into images and documents folders automatically.
 
-- ```mkdir -p```: Creates folders, no error if they already exist
+- `mkdir -p`: Creates folders, no error if they already exist
 
-- ```/dev/null```: Hide error messages if no files match
+- `/dev/null`: Hide error messages if no files match
 
-- ```mv [source] [destination]```: Moves or renames files & folders
+- `mv [source] [destination]`: Moves or renames files & folders
 
-- ```echo [message]```: Prints a message or writes to a file
+- `echo [message]`: Prints a message or writes to a file
 
 <b>How it works</b>
 

@@ -2,12 +2,12 @@
 
 This project generates multiple random passwords. Users can specify the password length, the number of passwords, and save all generated passwords to a text file.
 
-- ```read -p```:  Prompt user and store input
-- ```LC_CTYPE=C<```: Ensures macOS tr works without errors
-- ```tr -dc "$CHARS"```: Keeps only allowed characters from CHARS
-- ```/dev/urandom```: Source of random bytes
-- ```head -c $PASSWORD_LENGTH```: Take exactly PASSWORD_LENGTH characters
-- ```done > passwords.txt/```: Save generated passwords to a text file
+- `read -p`:  Prompt user and store input
+- `LC_CTYPE=C<`: Ensures macOS tr works without errors
+- `tr -dc "$CHARS"`: Keeps only allowed characters from CHARS
+- `/dev/urandom`: Source of random bytes
+- `head -c $PASSWORD_LENGTH`: Take exactly PASSWORD_LENGTH characters
+- `done > passwords.txt/`: Save generated passwords to a text file
 
 <b>How it works</b>
 
